@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pth
+*.pyc
+.ipynb_checkpoints/
+data/raw/images/
+data/raw/*.csv
+*.zip
+PDFs/
+test images/
