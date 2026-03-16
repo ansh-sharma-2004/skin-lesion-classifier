@@ -265,16 +265,7 @@ st.markdown(f"""
         from {{ opacity: 0; transform: translateY(8px); }}
         to   {{ opacity: 1; transform: translateY(0);   }}
     }}
-    div[data-testid="stFileUploader"] {{
-        background: {card} !important;
-        border: 1.5px dashed {border} !important;
-        border-radius: 12px !important;
-        padding: 0.5rem !important;
-    }}
 
-    div[data-testid="stFileUploader"] * {{
-        color: {text} !important;
-    }}
 
     .stDownloadButton > button {{
         background: {'#1e2433' if dark else '#ffffff'} !important;
