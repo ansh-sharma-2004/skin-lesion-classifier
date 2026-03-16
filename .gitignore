@@ -7,4 +7,4 @@ data/raw/images/
 data/raw/*.csv
 *.zip
 PDFs/
-test images/
+data/raw/test_images/
